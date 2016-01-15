@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC);
+
+body {
+  background-color: #4A96AD;
+}
+
+h1,h3 {
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  color: #7D1935;
+
+}
+
+#email-data, #sorted-data {
+  float: left;
+  margin: 0 3.7em;
+  padding: 1em;
+  font-size: 1em;
+  background-color: #F5F3EE;
+}
+
+#sort {
+  font-family: 'Playfair Display SC', serif;
+  float: left;
+  height: 40px;
+  width: 80px;
+  font-size: 1em;
+  background-color: #7D1935;
+  color: #F5F3EE;
+}
